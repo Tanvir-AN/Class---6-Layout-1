@@ -1,0 +1,59 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color:#ccffff;
+}
+.main{
+	margin: 0 auto;
+	width: 90%;
+}
+.logo ,.nevbar, .header, .sidbar, .body, .footer{
+	background-color:#0066ff;
+	height: 100px;
+}
+h1{
+	text-align: center;
+	font-size: 25px;
+	margin: 0;
+	padding: 34px;
+}
+.nevbar{
+	margin:25px 0;
+	height: 50px;
+}
+.nevbar h1{
+	padding: 10px;
+}
+.header{
+	margin-bottom: 25px; 
+	height: 150PX;
+}
+.header h1{
+	padding: 58px;
+}	
+.two{
+	overflow: hidden;
+}
+.sidbar{
+	float: left;
+	width: 28%;
+	height: 400px;
+}
+.sidbar h1{
+	padding: 170px  0;
+}
+.body{
+	float: right;
+	width: 70%;
+	height: 400px;
+}
+.body h1{
+padding: 170px 0;
+}
+.footer{
+	margin-top: 25px;
+	height: 50PX;
+}
+.footer h1{
+	padding: 10PX
+}
